@@ -27,10 +27,10 @@ for control theory, reinforcement learning, and robotics.
 | High-Level Software | Ryan, Rhenius, Srinikith, Riya |
 
 ## Project Timeline
-Phase 1 — Design & Planning: May to Mid June
-Phase 2 — Fabrication & Hardware: Mid June to Mid July
-Phase 3 — Integration & Software: Mid July to Early August
-Phase 4 — Testing & Validation: August
+Phase 1 — Design & Planning: May to Mid June;
+Phase 2 — Fabrication & Hardware: Mid June to Mid July;
+Phase 3 — Integration & Software: Mid July to Early August;
+Phase 4 — Testing & Validation: August;
 
 ## Status
 🟡 In Progress — Project kicked off May 2026
